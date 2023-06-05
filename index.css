@@ -145,7 +145,7 @@ header {
 #link-container-container-container {
     display: flex;
 
-    margin: 0 130px;
+    padding: 50px 130px;
 
     justify-content: space-between;
     gap: 50px;
@@ -193,6 +193,7 @@ header {
 footer {
     display: flex;
 
+    height: 150px;
     padding: 0 130px;
     
     align-items: center;
@@ -203,8 +204,6 @@ footer {
 
     footer .content {
         display: flex;
-
-        height: 150px;
         
         align-items: center;
         justify-content: space-between;
